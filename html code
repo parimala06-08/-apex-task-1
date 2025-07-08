@@ -1,0 +1,21 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My First Webpage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>My Favorite Fashion Pick from Savanna</h1>
+
+  <p>I recently found this beautiful dress on the Savanna website</p>
+
+  <img src="sample.img.jpg" alt="Sample Image" width="300">
+
+  <p>Visit my <a href="https://www.savana.com" target="_blank" rel="noopener noreferrer">favorite website</a>.</p>
+
+  <button onclick="showMessage()">Click Me!</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
